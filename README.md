@@ -41,7 +41,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-Clone this repo
+    $ Clone this repo
     $ cd NewsBlogSass
     $ npm install
 
